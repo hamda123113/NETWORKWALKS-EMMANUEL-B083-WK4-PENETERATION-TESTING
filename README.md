@@ -2,7 +2,7 @@
 
 The complete Week 4 penetration testing report is available here:
 
-[Download Full Penetration Testing Report (DOCX)](report/Mediroza_Week4_Final_Penetration_Test_Report.docx)
+[Download Full Penetration Testing Report (DOCX)](pentest_report.docx)
 
 ### 👤 Author
 
