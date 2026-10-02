@@ -7,6 +7,6 @@ The complete Week 4 penetration testing report is available here:
 ### 👤 Author
 
 **HAMDA RAZA**  
-Internee at networkwalks
+Internee at NetworkWalks
 
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/hamda-rashid-67a157356/))
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hamda-rashid-67a157356/)
